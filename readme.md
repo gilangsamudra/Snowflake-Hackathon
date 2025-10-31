@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive `README.md` file for the provided Streamlit application. This file explains the project's purpose, features, how to set it up, and how to use it.
-
----
-
 # 📜 Generator Draft UU (PDF) - Streamlit App
 
 This is a simple web application built with Streamlit that generates a preliminary draft of a policy document (*Rancangan Undang-Undang* - RUU) in PDF format. The user can select a policy sector, and the app will instantly create a structured, downloadable PDF based on pre-defined templates.
